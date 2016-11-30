@@ -1,0 +1,6 @@
+{
+  "name": "Lb.p4",
+  "tagline": "P4 implementation of L4 load balancer",
+  "body": "# lb.p4\r\nP4 implementation of L4 load balancer\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
