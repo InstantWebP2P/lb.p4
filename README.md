@@ -1,2 +1,2 @@
 # lb.p4
-P4 implementation of L4 load balancer
+P4 implementation to L4/L7 load balancer
